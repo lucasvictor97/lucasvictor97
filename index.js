@@ -15,7 +15,7 @@ var options =
 		username: "lucasvictor97",
 		password: "oauth:3n9yvbgphk2rrmfka7ese9q65yzi5f",  
 	},
-	channels: ['#gaules', '#stereonline', '#fluyr', '#cogu', '#rainbow6br', '#rainbow6', '#recruta_xnavyzzz', '#marcobc', '#waveigl', '#umbrinquedo', '#rzeragod_', '#velhovamp1', '#zigueira', '#pescocofino', '#luquet4', '#leogullo', '#johnpittertv', '#murilo_rt', '#jeffaocs', '#csrfps', '#mibrtv', '#marcaorx', '#brnwowzk1', '#Vovo', '#furiatv', '#skipnho', '#skipnholive', '#saullo', '#mch_agg',] //ADICIONA OS CANAIS AQ COM '#NOME'
+	channels: ['#gaules', '#stereonline', '#skyzaooofps', '#fluyr', '#cogu', '#rainbow6br', '#rainbow6', '#recruta_xnavyzzz', '#marcobc', '#waveigl', '#umbrinquedo', '#rzeragod_', '#velhovamp1', '#zigueira', '#pescocofino', '#luquet4', '#leogullo', '#johnpittertv', '#murilo_rt', '#jeffaocs', '#csrfps', '#mibrtv', '#marcaorx', '#brnwowzk1', '#Vovo', '#furiatv', '#skipnho', '#skipnholive', '#saullo', '#mch_agg',] //ADICIONA OS CANAIS AQ COM '#NOME'
 };
 
 var client = new tmi.client(options);
