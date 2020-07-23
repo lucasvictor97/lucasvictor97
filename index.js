@@ -13,7 +13,7 @@ var options =
 	identity: 
 	{
 		username: "lucasvictor97",
-		password: "https://id.heroku.com/account/accept/7932629/51205c8b726fdff41fdac2ef632845f1",  
+		password: "oauth:aschkd09bjetl6719gblt7ppndw1r6",  
 	},
 	channels: ['#gaules', '#stereonline', '#skyzaooofps', '#fluyr', '#cogu', '#rainbow6br', '#rainbow6', '#vsmzin', '#marcobc', '#waveigl', '#umbrinquedo', '#rzeragod_', '#velhovamp1', '#zigueira', '#pescocofino', '#luquet4', '#leogullo', '#johnpittertv', '#murilo_rt', '#jeffaocs', '#csrfps', '#mibrtv', '#marcaorx', '#brnwowzk1', '#Vovo', '#furiatv', '#skipnho', '#skipnholive', '#saullo', '#mch_agg',] //ADICIONA OS CANAIS AQ COM '#NOME'
 };
