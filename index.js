@@ -15,7 +15,7 @@ var options =
 		username: "lucasvictor_c",
 		password: "oauth:dr440jsarn64of6o7ex4v4qfx25sld",  
 	},
-	channels: ['#gaules', '#stereonline', '#deercheerup', '#sr_thulium', '#StereOfflineX', '#gaguinhoo157', '#Dilera', '#skyzaooofps', '#umbrinquedo', '#velhovamp1', '#zigueira', '#pescocofino', '#murilo_rt', '#jeffaocs', '#csrfps', '#PlayHard', '#mibrtv', '#brnwowzk1', '#furiatv', '#skipnho',] //ADICIONA OS CANAIS AQ COM '#NOME'
+	channels: ['#gaules', '#stereonline', '#deercheerup', '#sr_thulium', '#Finger', '#StereOfflineX', '#gaguinhoo157', '#Dilera', '#skyzaooofps', '#umbrinquedo', '#velhovamp1', '#zigueira', '#pescocofino', '#murilo_rt', '#jeffaocs', '#csrfps', '#PlayHard', '#mibrtv', '#brnwowzk1', '#furiatv', '#skipnho',] //ADICIONA OS CANAIS AQ COM '#NOME'
 };
 
 var client = new tmi.client(options);
