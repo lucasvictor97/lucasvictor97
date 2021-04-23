@@ -12,8 +12,8 @@ var options =
 	},
 	identity: 
 	{
-		username: "lucasvictor97",
-		password: "oauth:isc1hbr0c0n9n35b9ti1qr93ub2sz9",  
+		username: "lucasvictor_c",
+		password: "oauth:dr440jsarn64of6o7ex4v4qfx25sld",  
 	},
 	channels: ['#gaules', '#stereonline', '#deercheerup', '#sr_thulium', '#StereOfflineX', '#gaguinhoo157', '#Dilera', '#skyzaooofps', '#umbrinquedo', '#velhovamp1', '#zigueira', '#pescocofino', '#murilo_rt', '#jeffaocs', '#csrfps', '#PlayHard', '#mibrtv', '#brnwowzk1', '#furiatv', '#skipnho',] //ADICIONA OS CANAIS AQ COM '#NOME'
 };
