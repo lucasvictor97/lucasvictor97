@@ -13,7 +13,7 @@ var options =
 	identity: 
 	{
 		username: "lucasvictor_c",
-		password: "oauth:dr440jsarn64of6o7ex4v4qfx25sld",  
+		password: "oauth:960r7elb96gdugojfzm25u4b5i55hf",  
 	},
 	channels: ['#gaules', '#cachorro1337c', '#stereonline', '#deercheerup', '#zanfas_cenegal", '#sr_thulium', '#saullo', '#StereOfflineX', '#brusanada', '#Dilera', '#skyzaooofps', '#umbrinquedo', '#zigueira', '#murilo_rt', '#jeffaocs', '#csrfps', '#PlayHard', '#brnwowzk1', '#skipnho',] //ADICIONA OS CANAIS AQ COM '#NOME'
 };
