@@ -15,7 +15,7 @@ var options =
 		username: "lucasvictor_c",
 		password: "oauth:960r7elb96gdugojfzm25u4b5i55hf",  
 	},
-	channels: ['#gaules', '#cachorro1337c', '#saullo', '#murilo_rt', '#skipnholive', '#skipnho', '#csrfps', '#PlayHard', '#brnwowzk1',] //ADICIONA OS CANAIS AQ COM '#NOME'
+	channels: ['#gaules', '#cachorro1337c', '#saullo', '#murilo_rt', '#johnpittertv', '#skipnholive', '#skipnho', '#csrfps', '#PlayHard', '#brnwowzk1',] //ADICIONA OS CANAIS AQ COM '#NOME'
 };
 
 var client = new tmi.client(options);
